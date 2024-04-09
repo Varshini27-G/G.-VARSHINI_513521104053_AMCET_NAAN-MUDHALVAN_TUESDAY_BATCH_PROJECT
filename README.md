@@ -1,2 +1,8 @@
 # G.-VARSHINI_513521104053_AMCET_NAAN-MUDHALVAN_TUESDAY_BATCH_PROJECT
 NAAN-MUDHALVAN_PROJECT
+project created by: Varshini.G (513521104053)_AMCET(5135)
+
+login Details
+username: admin
+password: admin
+
